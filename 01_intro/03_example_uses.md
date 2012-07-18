@@ -12,6 +12,13 @@
 
 !SLIDE
 
+# Collaborative text editors
+
+* [Etherpad Lite](https://github.com/Pita/etherpad-lite)
+
+
+!SLIDE
+
 # Stock tickers
 
 * [http://demo.kaazing.com/portfolio/](http://demo.kaazing.com/portfolio/)
@@ -20,7 +27,7 @@
 
 !SLIDE
 
-# VNC client
+# VNC clients
 
 * [https://github.com/kanaka/noVNC](https://github.com/kanaka/noVNC)
 
